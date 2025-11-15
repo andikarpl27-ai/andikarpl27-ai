@@ -25,7 +25,7 @@
 
 ### **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,C#,C++" />
 </p>
 
 ### **Tools**
@@ -49,7 +49,6 @@
 ---
 
 ## 🕹️ Pac-Man Contribution Animation  
-> Premium visual — same style like your screenshot
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -72,17 +71,15 @@
 
 ## 🚀 Featured Projects (Auto Showcase)
 
-> Tambahkan repo yang ingin ditampilkan
-
 ```md
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andikadev&repo=nama-repo&theme=tokyonight)](https://github.com/andikadev/nama-repo)
 
 ---
 
-### 🔗 Links  
-- 🌐 Portfolio / Link Collection: *(misalnya lynk.id kamu)*  
-- 💼 Fiverr: *(link akun jika sudah buat)*  
-- 📘 Web3 Career Profile: *(opsional)*
+### 🔗 Links
+- 🌐 Portfolio / Link Collection: *-*  
+- 💼 Fiverr: *-*  
+- 📘 Web3 Career Profile: *-*
 
 ---
 
