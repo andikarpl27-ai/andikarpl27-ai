@@ -48,14 +48,6 @@
 
 ---
 
-## 🕹️ Pac-Man Contribution Animation  
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📊 GitHub Stats (Premium Theme)
 
 <p align="center">
@@ -85,3 +77,8 @@
 
 ### ✨ Thanks for visiting  
 Feel free to explore my repositories and follow me!  
+
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
