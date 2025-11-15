@@ -1,41 +1,81 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E4FF&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Andika;Software+Engineering+Student+%7C+RPL+SMK;Frontend+Developer+%2F+AI+Enthusiast;Building+My+Tech+Career+Every+Day" />
+</p>
+
+---
+
 <h1 align="center">Hi there 👋, I'm Andika</h1>
 <h3 align="center">Software Engineering Student | RPL SMK | Building Skills One Step at a Time</h3>
 
 ---
 
-### 🚀 About Me  
-- 🌱 I’m currently learning **AI Agents**, **Web Development**, and **AutoCAD (beginner)**  
-- 🤝 I’m looking to collaborate on building my **SaaS projects**  
-- 🪙 Interested in **trading**, **crypto**, and **investing as a beginner**  
-- 💼 Currently experimenting on **Web3.career** and freelance platforms like **Fiverr**  
-- 📫 How to reach me: *(tambahkan kontakmu jika mau)*  
-- ⚡ Fun fact: I love coding `< />`
+## 🧑‍🚀 About Me
+
+- 🌱 Learning **AI Agents**, **Web Development**, and **AutoCAD (beginner)**
+- 🤝 Open to collaborate on **SaaS** and **AI-powered projects**
+- 💡 Currently exploring **investing**, **crypto**, and **trading (pemula)**
+- 🌐 Experimenting with **Fiverr**, **lynk.id**, dan **Web3.career**
+- 📫 Reach me: *(isi kontakmu nanti)*  
+- ⚡ Fun Fact: I love solving problems with code `< />`
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages:** HTML, CSS, JavaScript, PHP  
-**Tools:** VS Code, Git, GitHub, Figma  
-**Learning:** AutoCAD, AI Agents, Web3, SaaS Development  
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs" />
+</p>
+
+### **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,autocad" />
+</p>
+
+### **Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ai,linux" />
+</p>
 
 ---
 
-### 🕹️ Fun Section — Pac-Man Contribution Board  
-> (Tampilan animasi seperti di gambar)
+## 🏆 GitHub Trophies
 
-![Pacman animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andikadev&theme=matrix&no-bg=true&margin-w=7" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+## 🕹️ Pac-Man Contribution Animation  
+> Premium visual — same style like your screenshot
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andikadev&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
-![Andika's GitHub stats](https://github-readme-stats.vercel.app/api?username=andikadev&show_icons=true&theme=dark)
+---
 
-</div>
+## 📊 GitHub Stats (Premium Theme)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andikadev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=andikadev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikadev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects (Auto Showcase)
+
+> Tambahkan repo yang ingin ditampilkan
+
+```md
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andikadev&repo=nama-repo&theme=tokyonight)](https://github.com/andikadev/nama-repo)
 
 ---
 
