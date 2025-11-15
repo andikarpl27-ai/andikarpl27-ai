@@ -40,6 +40,14 @@
 
 ---
 
+## 🕹️ 
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -68,7 +76,7 @@
 
 ---
 
-### 🔗 Links
+## 🔗 Links
 - 🌐 Portfolio / Link Collection: *-*  
 - 💼 Fiverr: *-*  
 - 📘 Web3 Career Profile: *-*
@@ -77,8 +85,3 @@
 
 ### ✨ Thanks for visiting  
 Feel free to explore my repositories and follow me!  
-
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
